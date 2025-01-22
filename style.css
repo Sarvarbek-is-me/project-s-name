@@ -50,3 +50,25 @@ a {
     font-size: 18px;
     align-items: center;
 }
+.section3{
+    padding: 20px;
+    color: white;
+    background-color: black;
+}
+.pol{
+    font-size: 18px;
+    margin-top: 174px;
+}
+.Контакты{
+    font-size: 24px;
+    margin-top: 80px;
+
+}
+.phone-number{
+    font-size: 18px;
+    margin-top: 15px;
+}
+.dom{
+    margin-top: 15px;
+    font-size: 18px;
+}
